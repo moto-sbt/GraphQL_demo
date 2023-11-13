@@ -1,2 +1,15 @@
+# 依存関係
 /node_modules
+
+# ログファイル
+npm-debug.log
+yarn-error.log
+
+# 環境変数ファイル
+.env
+
+# ビルド出力
 /dist
+
+# Mac
+.DS_Store
